@@ -1,7 +1,7 @@
 # This repo have for LSM-GNN hybrid deep learning algorithms data creator model
 LSM-GNN Hybrid Deep Learning Data Generator
 Overview
-This repository provides a modular data generation model designed for LSM-GNN (Long Short-Term Memory & Graph Neural Network) hybrid deep learning algorithms. It dynamically generates both spatial (real-world road networks) and temporal (physics-based travel time) data.
+This repository provides a modular driving record data generation model designed for LSM-GNN (Long Short-Term Memory & Graph Neural Network) hybrid deep learning algorithms. It dynamically generates both spatial (real-world road networks) and temporal (physics-based travel time) data.
 
 Tech Stack
 
