@@ -22,5 +22,5 @@ Modular Spatial Generation: Extracts real-world road networks. Users only need t
 Temporal Synthesis: Generates realistic travel time data based on the spatially captured routes using physics principles, Markov diagrams, Traffic rules(Türkiye for maxspeed).It also generates nine different types of anomalies, including GPS and user anomalies.
 
 Current Status & Known Issues (WIP)
-
+Very large changes in the maximum speed limit in the road data sometimes cause a recurrence limit error. Although some code blocks have been added to resolve this issue, the problem still persists.
 Currently, the "stop at traffic light" function is under development and its addition is being discussed. Other than that, there are no other missing features.
